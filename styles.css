@@ -1,0 +1,39 @@
+.game-layout{
+    display: flex;
+}
+.player1-hand{
+   
+    width: 180px;
+    height: 200px
+}
+.player2-hand{
+   
+    width: 180px;
+    height: 200px
+}
+
+.player1-war-stack{
+    padding-top: 150px;
+    width: 180px;
+    }
+.player2-war-stack{
+    padding-top: 150px;
+    height:150;
+    
+}
+
+.player1-card-in-play{
+    width: 180px;
+    height: 200px;
+   
+}
+.player2-card-in-play{
+    width: 180px;
+    height: 200px;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    font-size: 22px;
+}
